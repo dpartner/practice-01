@@ -1,0 +1,16 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../sass/main.scss",
+        "../sass/utils/_modern-normalize.scss",
+        "../sass/utils/_variables.scss",
+        "../sass/utils/_reset.scss",
+        "../sass/utils/_base.scss",
+        "../sass/utils/_visually-hidden.scss",
+        "../sass/components/_header.scss",
+        "../sass/components/_hero.scss"
+    ],
+    "names": [],
+    "file": "main.min.css"
+}
